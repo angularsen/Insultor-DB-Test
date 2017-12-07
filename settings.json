@@ -75,6 +75,20 @@
           "personFaceId": "5a54b394-36e0-4766-ae27-d8e94e68cacf"
         }
       ]
+    },
+    {
+      "name": "Olaf Øvrum",
+      "jokes": [
+        "Hei kjekken!"
+      ],
+      "personId": "c68d30be-950f-4642-8518-90d939f634da",
+      "photos": [
+        {
+          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Olaf%20%C3%98vrum%20(c68d30be-950f-4642-8518-90d939f634da)/2017-12-07T17-40-35_1080-1920.jpg",
+          "height": 1920,
+          "width": 1080
+        }
+      ]
     }
   ]
 }
