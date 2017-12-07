@@ -62,21 +62,6 @@
       ]
     },
     {
-      "name": "Wavy Hand",
-      "jokes": [
-        "Hei kjekken!"
-      ],
-      "personId": "c4401c40-44ce-4517-8f9c-8c360b61e713",
-      "photos": [
-        {
-          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Wavy%20Hand%20(c4401c40-44ce-4517-8f9c-8c360b61e713)/2017-12-05T23-23-18_1920-1080.jpg",
-          "height": 1080,
-          "width": 1920,
-          "personFaceId": "5a54b394-36e0-4766-ae27-d8e94e68cacf"
-        }
-      ]
-    },
-    {
       "name": "Olaf Øvrum",
       "jokes": [
         "Hei kjekken!"
