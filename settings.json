@@ -86,7 +86,8 @@
         {
           "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Olaf%20%C3%98vrum%20(c68d30be-950f-4642-8518-90d939f634da)/2017-12-07T17-40-35_1080-1920.jpg",
           "height": 1920,
-          "width": 1080
+          "width": 1080,
+          "personFaceId": "ea8b6a32-680e-442d-9543-3d8901b16bf3"
         }
       ]
     }
