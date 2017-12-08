@@ -92,6 +92,20 @@
           "personFaceId": "7ceb55e5-10f2-45a6-b2ae-f21052df95a7"
         }
       ]
+    },
+    {
+      "name": "Trainy Choo Choo",
+      "jokes": [
+        "Hei kjekken!"
+      ],
+      "personId": "2854b088-c162-4ab1-becb-7d1f99237acd",
+      "photos": [
+        {
+          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Trainy%20Choo%20Choo%20(2854b088-c162-4ab1-becb-7d1f99237acd)/2017-12-09T00-34-41_1280-720.jpg",
+          "height": 720,
+          "width": 1280
+        }
+      ]
     }
   ]
 }
