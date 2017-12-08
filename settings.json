@@ -103,7 +103,8 @@
         {
           "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Trainy%20Choo%20Choo%20(2854b088-c162-4ab1-becb-7d1f99237acd)/2017-12-09T00-34-41_1280-720.jpg",
           "height": 720,
-          "width": 1280
+          "width": 1280,
+          "personFaceId": "c6bbbaf5-5839-4953-96b7-5e5c06ea95a4"
         }
       ]
     }
