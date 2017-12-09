@@ -114,6 +114,20 @@
           "personFaceId": "cd1ef2bb-954b-44ae-a0a4-a84413f74c05"
         }
       ]
+    },
+    {
+      "name": "Wenche Larsen",
+      "jokes": [
+        "Hei kjekken!"
+      ],
+      "personId": "e39e1673-bda2-4936-9e8c-a46d044becaa",
+      "photos": [
+        {
+          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Wenche%20Larsen%20(e39e1673-bda2-4936-9e8c-a46d044becaa)/2017-12-09T12-39-10_1080-1920.jpg",
+          "height": 1920,
+          "width": 1080
+        }
+      ]
     }
   ]
 }
