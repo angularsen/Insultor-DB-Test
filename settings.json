@@ -110,7 +110,8 @@
         {
           "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Svein%20Larsen%20(237e0240-55a4-489c-acb4-022445a359c7)/2017-12-09T12-37-39_1080-1920.jpg",
           "height": 1920,
-          "width": 1080
+          "width": 1080,
+          "personFaceId": "cd1ef2bb-954b-44ae-a0a4-a84413f74c05"
         }
       ]
     }
