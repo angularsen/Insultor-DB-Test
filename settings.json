@@ -125,7 +125,8 @@
         {
           "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Wenche%20Larsen%20(e39e1673-bda2-4936-9e8c-a46d044becaa)/2017-12-09T12-39-10_1080-1920.jpg",
           "height": 1920,
-          "width": 1080
+          "width": 1080,
+          "personFaceId": "c01f719a-1bf4-4189-8a72-eb2fe8614f51"
         }
       ]
     }
