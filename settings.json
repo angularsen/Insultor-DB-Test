@@ -129,6 +129,21 @@
           "personFaceId": "c01f719a-1bf4-4189-8a72-eb2fe8614f51"
         }
       ]
+    },
+    {
+      "name": "Nora Larsen",
+      "jokes": [
+        "Hei kjekken!"
+      ],
+      "personId": "504e69f2-648d-433d-b425-ddca1e7eb0a3",
+      "photos": [
+        {
+          "path": "Nora Larsen (504e69f2-648d-433d-b425-ddca1e7eb0a3)/2017-12-29T01-54-40_800-600.jpg",
+          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Nora%20Larsen%20(504e69f2-648d-433d-b425-ddca1e7eb0a3)/2017-12-29T01-54-40_800-600.jpg",
+          "height": 600,
+          "width": 800
+        }
+      ]
     }
   ]
 }
