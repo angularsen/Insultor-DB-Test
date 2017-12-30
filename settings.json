@@ -2,7 +2,7 @@
   "persons": [
     {
       "name": "Andreas Gullberg Larsen",
-      "shortName": "Andreas",
+      "nickname": "Andreas",
       "jokes": [
         "Sola skinte flott i dag..! Helt til DU kom inn døra.",
         "Hei, jeg tror du har noe i fjeset.. uren hud.",
@@ -29,7 +29,7 @@
     },
     {
       "name": "Marthe Gullberg Larsen",
-      "shortName": "Marthe",
+      "nickname": "Marthe",
       "jokes": [
         "Så fin du er i dag!",
         "I dag blir en flott dag!",
@@ -55,7 +55,7 @@
     },
     {
       "name": "Olaf Øvrum",
-      "shortName": "Olaf",
+      "nickname": "Olaf",
       "jokes": [
         "Hei kjekken!"
       ],
@@ -72,7 +72,7 @@
     },
     {
       "name": "Terje Kvannli",
-      "shortName": "Terje",
+      "nickname": "Terje",
       "jokes": [
         "Han som ikke vet da faen. ",
         "Kjekk i dag. "
@@ -90,7 +90,7 @@
     },
     {
       "name": "Jørgen Austvik",
-      "shortName": "Jørgen",
+      "nickname": "Jørgen",
       "jokes": [
         "Du tar jo hva som helst."
       ],
@@ -107,7 +107,7 @@
     },
     {
       "name": "Svein Larsen",
-      "shortName": "Svein",
+      "nickname": "Svein",
       "jokes": [
         "Snart blir det marsipankake"
       ],
@@ -123,7 +123,7 @@
     },
     {
       "name": "Wenche Larsen",
-      "shortName": "Wenche",
+      "nickname": "Wenche",
       "jokes": [
         "Hei kjære mor!"
       ],
@@ -139,7 +139,7 @@
     },
     {
       "name": "Nora Larsen",
-      "shortName": "Nora",
+      "nickname": "Nora",
       "jokes": [
         "Hei søta!"
       ],
