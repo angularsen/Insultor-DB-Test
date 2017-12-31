@@ -171,36 +171,6 @@
       ]
     },
     {
-      "name": "Ane Gullberg Larsen",
-      "nickname": "Ane",
-      "jokes": [
-        "Hei Ane, så fin du er!",
-        "Hei Ane, hvilken farge har du på kjolen?",
-        "Hei Ane, hvor høyt kan du hoppe?",
-        "Hei Ane, er det noe snø ute?",
-        "Hei Ane, kan du hente Tiana?",
-        "Hei Ane, hva er den beste middagen du vet?",
-        "Hei Ane, hva er den beste middagen du vet?",
-        "Heisann hoppsann Ane!",
-        "Hei Ane, hva var den fineste julegaven du fikk?",
-        "Hei Ane, nå er du snart like stor som pappa!",
-        "Hei Ane, det blir spennende med fyrverkeri i kveld!"
-      ],
-      "overrides": {
-        "commentCooldownMs": 10000
-      },
-      "personId": "fc6130bc-d594-44b4-84f5-17e9edaf6848",
-      "photos": [
-        {
-          "path": "Ane Gullberg Larsen (fc6130bc-d594-44b4-84f5-17e9edaf6848)/2017-12-31T08-03-07_720-960.jpg",
-          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Ane%20Gullberg%20Larsen%20(fc6130bc-d594-44b4-84f5-17e9edaf6848)/2017-12-31T08-03-07_720-960.jpg",
-          "height": 960,
-          "width": 720,
-          "personFaceId": "88425e25-aa51-4417-94fa-14f4a632007c"
-        }
-      ]
-    },
-    {
       "name": "Hallfrid",
       "nickname": "Hallfrid",
       "jokes": [
