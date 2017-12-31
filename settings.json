@@ -153,6 +153,23 @@
           "personFaceId": "df10fe34-c416-4f5c-8173-c1d9b797f426"
         }
       ]
+    },
+    {
+      "name": "Ane Gullberg Larsen",
+      "nickname": "Ane",
+      "jokes": [
+        "Hei kjekken!"
+      ],
+      "personId": "fc6130bc-d594-44b4-84f5-17e9edaf6848",
+      "photos": [
+        {
+          "path": "Ane Gullberg Larsen (fc6130bc-d594-44b4-84f5-17e9edaf6848)/2017-12-31T08-03-07_720-960.jpg",
+          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Ane%20Gullberg%20Larsen%20(fc6130bc-d594-44b4-84f5-17e9edaf6848)/2017-12-31T08-03-07_720-960.jpg",
+          "height": 960,
+          "width": 720,
+          "personFaceId": "88425e25-aa51-4417-94fa-14f4a632007c"
+        }
+      ]
     }
   ]
 }
