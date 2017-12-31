@@ -207,6 +207,9 @@
         "Vesle frøken Hallfrid, så flott du er i dag.",
         "Hei Hallfrid, skal du se på rakettene i natt?"
       ],
+      "overrides": {
+        "commentCooldownMs": 10000
+      },
       "personId": "062cb8f8-35fc-4494-b6ef-a53223f0d2ba",
       "photos": [
         {
@@ -225,6 +228,9 @@
         "Hurra, Mimmi er på besøk! Kan jeg få en klem?",
         "Hvem baker den beste daim-kaken i landet her? Det er mimmi!"
       ],
+      "overrides": {
+        "commentCooldownMs": 10000
+      },
       "personId": "4b2b8373-8827-488f-aa6b-8a8000fe794d",
       "photos": [
         {
@@ -243,6 +249,9 @@
         "Olav er den beste og sterkeste oppa i hele verden.",
         "Olav liker griselabber."
       ],
+      "overrides": {
+        "commentCooldownMs": 10000
+      },
       "personId": "85dc857f-9526-46ea-aa15-edbe52035a55",
       "photos": [
         {
@@ -258,8 +267,21 @@
       "name": "Ane To",
       "nickname": "Ane",
       "jokes": [
-        "Hei kjekken!"
+        "Hei Ane, så fin du er!",
+        "Hei Ane, hvilken farge har du på kjolen?",
+        "Hei Ane, hvor høyt kan du hoppe?",
+        "Hei Ane, er det noe snø ute?",
+        "Hei Ane, kan du hente Tiana?",
+        "Hei Ane, hva er den beste middagen du vet?",
+        "Hei Ane, hva er den beste middagen du vet?",
+        "Heisann hoppsann Ane!",
+        "Hei Ane, hva var den fineste julegaven du fikk?",
+        "Hei Ane, nå er du snart like stor som pappa!",
+        "Hei Ane, det blir spennende med fyrverkeri i kveld!"
       ],
+      "overrides": {
+        "commentCooldownMs": 10000
+      },
       "personId": "b5321b3b-9278-4437-9f7f-fa384c59d22e",
       "photos": [
         {
