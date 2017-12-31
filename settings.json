@@ -216,6 +216,23 @@
           "personFaceId": "2c63f6fc-ade2-4691-902a-c92b86c63cee"
         }
       ]
+    },
+    {
+      "name": "Inger",
+      "nickname": "Inger",
+      "jokes": [
+        "Hei kjekken!"
+      ],
+      "personId": "4b2b8373-8827-488f-aa6b-8a8000fe794d",
+      "photos": [
+        {
+          "path": "Inger (4b2b8373-8827-488f-aa6b-8a8000fe794d)/2017-12-31T15-04-58_1080-1920.jpg",
+          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Inger%20(4b2b8373-8827-488f-aa6b-8a8000fe794d)/2017-12-31T15-04-58_1080-1920.jpg",
+          "height": 1920,
+          "width": 1080,
+          "personFaceId": "5756ea4c-5855-4b3d-87f4-181dc0185c6a"
+        }
+      ]
     }
   ]
 }
