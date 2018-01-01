@@ -237,17 +237,10 @@
       "name": "Ane To",
       "nickname": "Ane",
       "jokes": [
-        "Hei Ane, så fin du er!",
-        "Hei Ane, hvilken farge har du på kjolen?",
-        "Hei Ane, hvor høyt kan du hoppe?",
-        "Hei Ane, er det noe snø ute?",
-        "Hei Ane, kan du hente Tiana?",
-        "Hei Ane, hva er den beste middagen du vet?",
-        "Hei Ane, hva er den beste middagen du vet?",
-        "Heisann hoppsann Ane!",
-        "Hei Ane, hva var den fineste julegaven du fikk?",
-        "Hei Ane, nå er du snart like stor som pappa!",
-        "Hei Ane, det blir spennende med fyrverkeri i kveld!"
+        "Hei Ane, det blir godt å legge seg i kveld.",
+        "Hei Ane, det blir spennende å besøke lillesøsteren til Tilde som heter Signe.",
+        "Hei Ane, det blir gøy med Lørdag!",
+        "Hei Ane, Fiffi var med på kino og det var gøy! Der så vi Knerten på Ekspedisjon."
       ],
       "overrides": {
         "commentCooldownMs": 10000
