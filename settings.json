@@ -258,5 +258,5 @@
     }
   ],
   "commentCooldownPerPersonMs": 35000,
-  "askToCreatePersonForUnrecognizedFaces": false
+  "askToCreatePersonForUnrecognizedFaces": true
 }
