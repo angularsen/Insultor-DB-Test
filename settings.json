@@ -257,5 +257,5 @@
       ]
     }
   ],
-  "commentCooldownPerPersonMs": 21000000
+  "commentCooldownPerPersonMs": 35000
 }
