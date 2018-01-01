@@ -239,6 +239,6 @@
       ]
     }
   ],
-  "commentCooldownPerPersonMs": 32000,
+  "commentCooldownPerPersonMs": 0,
   "askToCreatePersonForUnrecognizedFaces": true
 }
