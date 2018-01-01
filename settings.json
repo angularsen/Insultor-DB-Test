@@ -9,9 +9,6 @@
         "I dag blir en jævlig dag.",
         "Det er visst ikke bare ungdommen som sliter med kviser."
       ],
-      "overrides": {
-        "commentCooldownMs": 10000
-      },
       "personId": "1e797137-fa4c-4d2b-86e8-6032b1007a04",
       "photos": [
         {
@@ -156,9 +153,6 @@
         "Hei Nora, hvor er Ane? Hvor er Ane?",
         "Hei Nora. Å nei... Har du sovna? Har du sovna?"
       ],
-      "overrides": {
-        "commentCooldownMs": 10000
-      },
       "personId": "b5d3cefb-014c-46f0-b5eb-936501b1b4a4",
       "photos": [
         {
@@ -177,9 +171,6 @@
         "Vesle frøken Hallfrid, så flott du er i dag.",
         "Hei Hallfrid, skal du se på rakettene i natt?"
       ],
-      "overrides": {
-        "commentCooldownMs": 10000
-      },
       "personId": "062cb8f8-35fc-4494-b6ef-a53223f0d2ba",
       "photos": [
         {
@@ -198,9 +189,6 @@
         "Hurra, Mimmi er på besøk! Kan jeg få en klem?",
         "Hvem baker den beste daim-kaken i landet her? Det er mimmi!"
       ],
-      "overrides": {
-        "commentCooldownMs": 10000
-      },
       "personId": "4b2b8373-8827-488f-aa6b-8a8000fe794d",
       "photos": [
         {
@@ -219,9 +207,6 @@
         "Olav er den beste og sterkeste oppa i hele verden.",
         "Olav liker griselabber."
       ],
-      "overrides": {
-        "commentCooldownMs": 10000
-      },
       "personId": "85dc857f-9526-46ea-aa15-edbe52035a55",
       "photos": [
         {
@@ -242,9 +227,6 @@
         "Hei Ane, det blir gøy med Lørdag!",
         "Hei Ane, Fiffi var med på kino og det var gøy! Der så vi Knerten på Ekspedisjon."
       ],
-      "overrides": {
-        "commentCooldownMs": 10000
-      },
       "personId": "b5321b3b-9278-4437-9f7f-fa384c59d22e",
       "photos": [
         {
