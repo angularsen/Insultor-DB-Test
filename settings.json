@@ -244,6 +244,23 @@
           "personFaceId": "cb4f400e-9af5-481f-bd6c-82d4243cbd53"
         }
       ]
+    },
+    {
+      "name": "Fredrik",
+      "nickname": "Voff",
+      "jokes": [
+        "Hei kjekken!"
+      ],
+      "personId": "da335678-54bb-491f-9606-5691a31ba27d",
+      "photos": [
+        {
+          "path": "Fredrik (da335678-54bb-491f-9606-5691a31ba27d)/2018-01-10T20-07-21_1080-1920.jpg",
+          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Fredrik%20(da335678-54bb-491f-9606-5691a31ba27d)/2018-01-10T20-07-21_1080-1920.jpg",
+          "height": 1920,
+          "width": 1080,
+          "personFaceId": "18553aeb-4936-49b1-915c-a455c33a5b6c"
+        }
+      ]
     }
   ],
   "commentCooldownPerPersonMs": 0,
