@@ -263,6 +263,6 @@
       ]
     }
   ],
-  "commentCooldownPerPersonMs": 0,
+  "commentCooldownPerPersonMs": 10000,
   "askToCreatePersonForUnrecognizedFaces": false
 }
