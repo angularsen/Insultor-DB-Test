@@ -278,6 +278,23 @@
           "personFaceId": "8ea4be7a-66db-4c25-a886-6b1a0f3cd0ff"
         }
       ]
+    },
+    {
+      "name": "Ida",
+      "nickname": "Ida Jensen",
+      "jokes": [
+        "Hei kjekken!"
+      ],
+      "personId": "f3013f68-c65e-49e4-8cbf-21c8115bdc93",
+      "photos": [
+        {
+          "path": "Ida (f3013f68-c65e-49e4-8cbf-21c8115bdc93)/2018-01-20T17-18-45_1080-1920.jpg",
+          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Ida%20(f3013f68-c65e-49e4-8cbf-21c8115bdc93)/2018-01-20T17-18-45_1080-1920.jpg",
+          "height": 1920,
+          "width": 1080,
+          "personFaceId": "6bb93129-2980-4e96-9127-a7ec9afedd57"
+        }
+      ]
     }
   ],
   "commentCooldownPerPersonMs": 10000,
