@@ -261,6 +261,23 @@
           "personFaceId": "18553aeb-4936-49b1-915c-a455c33a5b6c"
         }
       ]
+    },
+    {
+      "name": "Terje Letnes",
+      "nickname": "Terje ",
+      "jokes": [
+        "Hei kjekken!"
+      ],
+      "personId": "0a21ffd3-4dc3-4e1b-81ac-a500cc6b8400",
+      "photos": [
+        {
+          "path": "Terje Letnes (0a21ffd3-4dc3-4e1b-81ac-a500cc6b8400)/2018-01-20T17-17-58_1080-1920.jpg",
+          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Terje%20Letnes%20(0a21ffd3-4dc3-4e1b-81ac-a500cc6b8400)/2018-01-20T17-17-58_1080-1920.jpg",
+          "height": 1920,
+          "width": 1080,
+          "personFaceId": "8ea4be7a-66db-4c25-a886-6b1a0f3cd0ff"
+        }
+      ]
     }
   ],
   "commentCooldownPerPersonMs": 10000,
