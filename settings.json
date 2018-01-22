@@ -297,6 +297,23 @@
           "personFaceId": "6bb93129-2980-4e96-9127-a7ec9afedd57"
         }
       ]
+    },
+    {
+      "name": "Jan",
+      "nickname": "Laser Jan",
+      "jokes": [
+        "Hei kjekken!"
+      ],
+      "personId": "977c1e48-e247-4e33-b19a-4903606d7ce5",
+      "photos": [
+        {
+          "path": "Jan (977c1e48-e247-4e33-b19a-4903606d7ce5)/2018-01-22T17-58-59_1080-1920.jpg",
+          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Jan%20(977c1e48-e247-4e33-b19a-4903606d7ce5)/2018-01-22T17-58-59_1080-1920.jpg",
+          "height": 1920,
+          "width": 1080,
+          "personFaceId": "cb65df13-576e-4925-b72b-f0e143089869"
+        }
+      ]
     }
   ],
   "commentCooldownPerPersonMs": 10000,
