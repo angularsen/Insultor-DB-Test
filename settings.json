@@ -314,6 +314,23 @@
           "personFaceId": "cb65df13-576e-4925-b72b-f0e143089869"
         }
       ]
+    },
+    {
+      "name": "Stian Eklund",
+      "nickname": "Stian ",
+      "jokes": [
+        "Hei kjekken!"
+      ],
+      "personId": "18f324e8-ccbb-48c6-8c85-bb09a6060100",
+      "photos": [
+        {
+          "path": "Stian Eklund (18f324e8-ccbb-48c6-8c85-bb09a6060100)/2018-05-23T16-26-56_1080-1920.jpg",
+          "url": "https://raw.githubusercontent.com/angularsen/Insultor-DB-Test/master/Stian%20Eklund%20(18f324e8-ccbb-48c6-8c85-bb09a6060100)/2018-05-23T16-26-56_1080-1920.jpg",
+          "height": 1920,
+          "width": 1080,
+          "personFaceId": "f796bf40-090e-4276-ba82-d7b23ff75d9b"
+        }
+      ]
     }
   ],
   "commentCooldownPerPersonMs": 10000,
